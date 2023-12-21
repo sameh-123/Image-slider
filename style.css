@@ -1,0 +1,46 @@
+*{
+  background-color: white;
+  margin: 0;
+  padding: 0;
+}
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cont{
+  text-align: center;
+  padding: 20px;
+  margin-top: 50px;
+}
+.top{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+.arrow{
+  font-size: 60px;
+  font-weight: bold;
+  border: none;
+}
+.image{
+  height: 400px;
+  width: 500px;
+  border-radius: 10px;
+}
+.btn{
+  border: none;
+  font-size: 20px;
+}
+input:active{
+  color: black;
+  font-size: 20px;
+}
+.down{
+  margin-top: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
